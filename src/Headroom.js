@@ -1,3 +1,5 @@
+// this is from ericroberts/headroom.js
+
 /**
  * Check if object is part of the DOM
  * @constructor
